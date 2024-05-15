@@ -1,0 +1,22 @@
+.container24 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .profile {
+    margin: 20px 30px;
+    text-align: center;
+  }
+  
+  .profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+  }
+  
+  .name100 {
+    display: block;
+    margin-top: 5px;
+  }
+  
